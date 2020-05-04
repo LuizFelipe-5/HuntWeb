@@ -1,3 +1,3 @@
 # HuntWeb
 
-Criação de uma api com Node.js e utilizando o banco de dados MongoDB e interface com React.js.
+Consumindo uma api Node.js que utiliza o banco de dados MongoDB e criação interface com React.js.
